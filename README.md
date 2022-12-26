@@ -10,13 +10,8 @@ Saya seorang *Android Developer* dan *Fasilitator Kelas Industri* untuk Android 
   <img align="left" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white"/>
   <br><br>
 
-### Statistik Github
-<p align="left">
-<a href="https://github.com/NandaAdisaputra">
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NandaAdisaputra&layout=compact&langs_count=8&theme=buefy"/>
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NandaAdisaputra&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+### Sertikat Kompetensi
+![sertifikat kompetensi](https://user-images.githubusercontent.com/43689759/209481828-74987edd-2d98-4507-bb18-826078e39a15.jpg)
 
 ### 🔍 Anda Dapat Menemukan Saya di
 
