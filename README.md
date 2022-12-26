@@ -12,7 +12,7 @@ Saya seorang *Android Developer* dan *Fasilitator Kelas Industri* untuk Android 
 
 ### Statistik Github
 <p align="left">
-<a href="https://github.com/gilangadhan">
+<a href="https://github.com/NandaAdisaputra">
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NandaAdisaputra&layout=compact&langs_count=8&theme=buefy"/>
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NandaAdisaputra&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </a>
