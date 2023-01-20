@@ -12,6 +12,7 @@ Saya seorang *Android Developer* dan *Fasilitator Kelas Industri* untuk Android 
 
 ### Sertikat Kompetensi
 ![sertifikat dicoding](https://user-images.githubusercontent.com/43689759/209507533-71d81f37-ceb6-4d3c-bab4-7fe2380faf23.png)
+![sertifikat kompetensi](https://user-images.githubusercontent.com/43689759/213687321-55b906a3-aa06-4c7a-9f91-692eaeec9e53.png)
 ![jetpack](https://user-images.githubusercontent.com/43689759/210975001-da40e712-5b7c-4e08-ac6e-696e4d0f4c23.png)
 
 ### 🔍 Anda Dapat Menemukan Saya di
