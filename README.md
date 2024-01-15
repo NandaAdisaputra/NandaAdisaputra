@@ -3,12 +3,12 @@
 Saya seorang *Android Developer* dan *Fasilitator Kelas Industri* untuk Android sejak 2018 di [Crocodic](http://crocodic.academy/) setelah bekerja sebagai [Freelancer](https://radarsemarang.jawapos.com/features/2020/09/12/patok-tarif-hingga-rp-10-juta-pernah-alami-proyek-gagal/). Saya juga pernah bekerja menjadi [Android Mentor SMK Coding Kominfo](https://smkcoding.id/) di SMK Negeri 9 Semarang pada tahun 2019. Lulusan kursus online [Dicoding Academy](https://www.dicoding.com/users/nanda_adisaputra) Google Developers Authorized Training Partner. [Wisudawan Terbaik program studi S1 Teknik Informatika](https://jateng.tribunnews.com/2021/04/01/ini-para-wisudawan-terbaik-di-wisuda-ke-61-usm) pada wisuda ke 61 Universitas Semarang dengan memperoleh IPK 3.86 (Cumlaude) dan waktu tempuh 3.5 tahun. 
 
 ### Tech Stack
-  <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/Framework-Flutter-02569B.svg?logo=flutter&logoColor=white&labelColor=blue"/>
  <img align="left" src="https://img.shields.io/badge/IDE-IntelliJ IDEA-000000.svg?logo=intellij-idea&logoColor=white&labelColor=blue"/>
-<img align="left" src="https://img.shields.io/badge/Framework-Flutter-02569B.svg?logo=flutter&logoColor=white&labelColor=blue"/>
+   <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
   <br><br>
 
 ### Sertikat Kompetensi
