@@ -4,7 +4,7 @@ Saya seorang *Android Developer* dan *Fasilitator Kelas Industri* untuk Android 
 
 ### Tech Stack
   <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=%23FF0000"/>
+<img align="left" src="https://img.shields.io/badge/kotlin-%230095D5.svg?logo=kotlin&logoColor=%23FFA500"/>
   <img align="left" src="https://img.shields.io/badge/Framework-Flutter-02569B.svg?logo=flutter&logoColor=white&labelColor=blue"/>
  <img align="left" src="https://img.shields.io/badge/IDE-IntelliJ IDEA-000000.svg?logo=intellij-idea&logoColor=white&labelColor=blue"/>
    <img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white"/>
